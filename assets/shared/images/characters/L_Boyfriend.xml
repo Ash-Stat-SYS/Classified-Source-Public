@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="L_Boyfriend.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="L BF Down0000" x="0" y="0" width="869" height="890"/>
+	<SubTexture name="L BF Down0001" x="0" y="0" width="869" height="890"/>
+	<SubTexture name="L BF Down0002" x="869" y="0" width="869" height="890"/>
+	<SubTexture name="L BF Down0003" x="869" y="0" width="869" height="890"/>
+	<SubTexture name="L BF Down0004" x="1738" y="0" width="869" height="890"/>
+	<SubTexture name="L BF Down0005" x="1738" y="0" width="869" height="890"/>
+	<SubTexture name="L BF Down0006" x="2607" y="0" width="869" height="890"/>
+	<SubTexture name="L BF Down0007" x="2607" y="0" width="869" height="890"/>
+	<SubTexture name="L BF Idle0000" x="3476" y="0" width="820" height="853"/>
+	<SubTexture name="L BF Idle0001" x="3476" y="0" width="820" height="853"/>
+	<SubTexture name="L BF Idle0002" x="4296" y="0" width="820" height="853"/>
+	<SubTexture name="L BF Idle0003" x="4296" y="0" width="820" height="853"/>
+	<SubTexture name="L BF Idle0004" x="5116" y="0" width="820" height="853"/>
+	<SubTexture name="L BF Idle0005" x="5116" y="0" width="820" height="853"/>
+	<SubTexture name="L BF Idle0006" x="5936" y="0" width="820" height="853"/>
+	<SubTexture name="L BF Idle0007" x="5936" y="0" width="820" height="853"/>
+	<SubTexture name="L BF Idle0008" x="6756" y="0" width="820" height="853"/>
+	<SubTexture name="L BF Idle0009" x="6756" y="0" width="820" height="853"/>
+	<SubTexture name="L BF Idle0010" x="0" y="890" width="820" height="853"/>
+	<SubTexture name="L BF Idle0011" x="0" y="890" width="820" height="853"/>
+	<SubTexture name="L BF Idle0012" x="820" y="890" width="820" height="853"/>
+	<SubTexture name="L BF Idle0013" x="820" y="890" width="820" height="853"/>
+	<SubTexture name="L BF Left0000" x="1640" y="890" width="876" height="890"/>
+	<SubTexture name="L BF Left0001" x="1640" y="890" width="876" height="890"/>
+	<SubTexture name="L BF Left0002" x="2516" y="890" width="876" height="890"/>
+	<SubTexture name="L BF Left0003" x="2516" y="890" width="876" height="890"/>
+	<SubTexture name="L BF Left0004" x="3392" y="890" width="876" height="890"/>
+	<SubTexture name="L BF Left0005" x="3392" y="890" width="876" height="890"/>
+	<SubTexture name="L BF Left0006" x="4268" y="890" width="876" height="890"/>
+	<SubTexture name="L BF Left0007" x="4268" y="890" width="876" height="890"/>
+	<SubTexture name="L BF Right0000" x="5144" y="890" width="911" height="890"/>
+	<SubTexture name="L BF Right0001" x="5144" y="890" width="911" height="890"/>
+	<SubTexture name="L BF Right0002" x="6055" y="890" width="911" height="890"/>
+	<SubTexture name="L BF Right0003" x="6055" y="890" width="911" height="890"/>
+	<SubTexture name="L BF Right0004" x="6966" y="890" width="911" height="890"/>
+	<SubTexture name="L BF Right0005" x="6966" y="890" width="911" height="890"/>
+	<SubTexture name="L BF Right0006" x="0" y="1780" width="911" height="890"/>
+	<SubTexture name="L BF Right0007" x="0" y="1780" width="911" height="890"/>
+	<SubTexture name="L BF Up0000" x="911" y="1780" width="820" height="890"/>
+	<SubTexture name="L BF Up0001" x="911" y="1780" width="820" height="890"/>
+	<SubTexture name="L BF Up0002" x="1731" y="1780" width="820" height="890"/>
+	<SubTexture name="L BF Up0003" x="1731" y="1780" width="820" height="890"/>
+	<SubTexture name="L BF Up0004" x="2551" y="1780" width="820" height="890"/>
+	<SubTexture name="L BF Up0005" x="2551" y="1780" width="820" height="890"/>
+	<SubTexture name="L BF Up0006" x="3371" y="1780" width="820" height="890"/>
+	<SubTexture name="L BF Up0007" x="3371" y="1780" width="820" height="890"/>
+</TextureAtlas>

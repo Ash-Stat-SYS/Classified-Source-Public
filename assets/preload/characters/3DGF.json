@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-139
+			],
+			"fps": 30,
+			"anim": "danceLeft",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "3DGF GF Idle Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-139
+			],
+			"fps": 30,
+			"anim": "danceRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"name": "3DGF GF Idle Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-138
+			],
+			"fps": 30,
+			"anim": "rightTurn",
+			"indices": [],
+			"name": "3DGF GF Turn Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-139
+			],
+			"fps": 30,
+			"anim": "leftTurn",
+			"indices": [],
+			"name": "3DGF GF Turn Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-139
+			],
+			"anim": "danceRight-alt",
+			"fps": 30,
+			"name": "3DGF GF Idle Right",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-139
+			],
+			"anim": "danceLeft-alt",
+			"fps": 30,
+			"name": "3DGF GF Idle Right",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/3DGF",
+	"position": [
+		-230,
+		-180
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		10,
+		400
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

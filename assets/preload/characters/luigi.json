@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-55,
+				86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				38,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-82,
+				87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-33,
+				543
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-55,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TheLIsReal",
+	"position": [
+		-640,
+		-70
+	],
+	"healthicon": "luigi",
+	"flip_x": false,
+	"healthbar_colors": [
+		41,
+		182,
+		121
+	],
+	"camera_position": [
+		200,
+		-290
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

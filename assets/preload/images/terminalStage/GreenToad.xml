@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GreenToad.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GreenToad_Idle instance 10000" x="0" y="0" width="539" height="412" frameX="-23" frameY="-18" frameWidth="581" frameHeight="432"/>
+	<SubTexture name="GreenToad_Idle instance 10001" x="0" y="0" width="539" height="412" frameX="-23" frameY="-18" frameWidth="581" frameHeight="432"/>
+	<SubTexture name="GreenToad_Idle instance 10002" x="539" y="0" width="581" height="394" frameX="0" frameY="-35" frameWidth="581" frameHeight="432"/>
+	<SubTexture name="GreenToad_Idle instance 10003" x="539" y="0" width="581" height="394" frameX="0" frameY="-35" frameWidth="581" frameHeight="432"/>
+	<SubTexture name="GreenToad_Idle instance 10004" x="1120" y="0" width="503" height="425" frameX="-43" frameY="-7" frameWidth="581" frameHeight="432"/>
+	<SubTexture name="GreenToad_Idle instance 10005" x="1120" y="0" width="503" height="425" frameX="-43" frameY="-7" frameWidth="581" frameHeight="432"/>
+	<SubTexture name="GreenToad_Idle instance 10006" x="0" y="425" width="486" height="431" frameX="-52" frameY="0" frameWidth="581" frameHeight="432"/>
+	<SubTexture name="GreenToad_Idle instance 10007" x="0" y="425" width="486" height="431" frameX="-52" frameY="0" frameWidth="581" frameHeight="432"/>
+	<SubTexture name="GreenToad_Idle instance 10008" x="0" y="425" width="486" height="431" frameX="-52" frameY="0" frameWidth="581" frameHeight="432"/>
+	<SubTexture name="GreenToad_Idle instance 10009" x="0" y="425" width="486" height="431" frameX="-52" frameY="0" frameWidth="581" frameHeight="432"/>
+	<SubTexture name="GreenToad_Idle instance 10010" x="0" y="425" width="486" height="431" frameX="-52" frameY="0" frameWidth="581" frameHeight="432"/>
+	<SubTexture name="GreenToad_Idle instance 10011" x="0" y="425" width="486" height="431" frameX="-52" frameY="0" frameWidth="581" frameHeight="432"/>
+	<SubTexture name="GreenToad_Idle instance 10012" x="0" y="425" width="486" height="431" frameX="-52" frameY="0" frameWidth="581" frameHeight="432"/>
+	<SubTexture name="GreenToad_Idle instance 10013" x="0" y="425" width="486" height="431" frameX="-52" frameY="0" frameWidth="581" frameHeight="432"/>
+</TextureAtlas>

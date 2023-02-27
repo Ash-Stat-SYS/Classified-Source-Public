@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gilbert.png"><SubTexture name="gilbert idle0000" x="0" y="0" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert idle0001" x="0" y="0" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert idle0002" x="0" y="0" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert idle0003" x="0" y="0" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert idle0004" x="0" y="0" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert left0000" x="2481" y="0" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert left0001" x="0" y="1981" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert left0002" x="2481" y="1981" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert left0003" x="4962" y="0" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert left0004" x="4962" y="1981" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert left0005" x="0" y="3962" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert left0006" x="2481" y="3962" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert left0007" x="4962" y="3962" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert left0008" x="0" y="0" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert up0000" x="7443" y="0" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert up0001" x="7443" y="1981" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert up0002" x="7443" y="3962" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert up0003" x="0" y="5943" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert up0004" x="2481" y="5943" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert up0005" x="4962" y="5943" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert up0006" x="7443" y="5943" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert up0007" x="0" y="7924" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert up0008" x="0" y="0" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert right0000" x="2481" y="7924" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert right0001" x="4962" y="7924" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert right0002" x="7443" y="7924" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert right0003" x="9924" y="0" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert right0004" x="9924" y="1981" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert right0005" x="9924" y="3962" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert right0006" x="9924" y="5943" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert right0007" x="0" y="7924" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert right0008" x="0" y="0" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert down0000" x="9924" y="7924" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert down0001" x="0" y="9905" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert down0002" x="2481" y="9905" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert down0003" x="4962" y="9905" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert down0004" x="7443" y="9905" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert down0005" x="9924" y="9905" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert down0006" x="12405" y="0" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert down0007" x="4962" y="3962" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+<SubTexture name="gilbert down0008" x="0" y="0" width="2481" height="1981" frameX="0" frameY="0" frameWidth="2481" frameHeight="1981" />
+</TextureAtlas>

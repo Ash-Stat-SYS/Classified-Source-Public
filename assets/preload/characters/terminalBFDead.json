@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-12
+			],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [17],
+			"name": "BF diess"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-30,
+				-12
+			],
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [17],
+			"name": "BF diess"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF diess"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf dies",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "speedBoy",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		189
+	],
+	"camera_position": [
+		-70,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

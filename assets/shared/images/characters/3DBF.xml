@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="3DBF.png">
+<SubTexture name="3DBF idle0000" x="2970" y="0" width="410" height="528" frameX="-354" frameY="-142" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF idle0001" x="2212" y="2395" width="417" height="534" frameX="-346" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF idle0002" x="854" y="2395" width="420" height="541" frameX="-342" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF idle0003" x="2421" y="1688" width="422" height="551" frameX="-338" frameY="-119" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF idle0004" x="2421" y="564" width="421" height="562" frameX="-337" frameY="-108" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF idle0005" x="2006" y="0" width="415" height="573" frameX="-340" frameY="-97" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF idle0006" x="939" y="1237" width="407" height="584" frameX="-346" frameY="-86" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF idle0007" x="1147" y="636" width="395" height="593" frameX="-355" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF idle0008" x="759" y="636" width="388" height="599" frameX="-364" frameY="-71" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF idle0009" x="0" y="636" width="381" height="601" frameX="-371" frameY="-69" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF idle0010" x="381" y="636" width="378" height="601" frameX="-374" frameY="-69" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF idle0011" x="381" y="636" width="378" height="601" frameX="-374" frameY="-69" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF idle0012" x="381" y="636" width="378" height="601" frameX="-374" frameY="-69" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF idle0013" x="381" y="636" width="378" height="601" frameX="-374" frameY="-69" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF idle0014" x="381" y="636" width="378" height="601" frameX="-374" frameY="-69" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF up0000" x="401" y="0" width="401" height="630" frameX="-364" frameY="-37" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF up0001" x="0" y="0" width="401" height="636" frameX="-361" frameY="-32" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF up0002" x="802" y="0" width="401" height="624" frameX="-362" frameY="-43" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF up0003" x="1203" y="0" width="401" height="606" frameX="-364" frameY="-60" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF up0004" x="1604" y="0" width="402" height="586" frameX="-363" frameY="-81" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF up0005" x="2006" y="573" width="406" height="569" frameX="-358" frameY="-101" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF down0000" x="3380" y="0" width="557" height="526" frameX="-401" frameY="-154" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF down0001" x="1674" y="2395" width="538" height="539" frameX="-409" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF down0002" x="1046" y="1823" width="496" height="569" frameX="-414" frameY="-113" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF down0003" x="0" y="1237" width="465" height="586" frameX="-422" frameY="-98" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF down0004" x="465" y="1237" width="474" height="585" frameX="-422" frameY="-101" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF down0005" x="1346" y="1237" width="498" height="581" frameX="-421" frameY="-107" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF down0006" x="2421" y="1126" width="529" height="562" frameX="-413" frameY="-120" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF left0000" x="2421" y="0" width="549" height="564" frameX="-253" frameY="-105" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF left0001" x="1542" y="1823" width="545" height="569" frameX="-249" frameY="-101" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF left0002" x="515" y="1823" width="531" height="570" frameX="-247" frameY="-99" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF left0003" x="0" y="1823" width="515" height="572" frameX="-251" frameY="-94" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF right0000" x="0" y="2395" width="437" height="551" frameX="-429" frameY="-80" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF right0001" x="437" y="2395" width="417" height="543" frameX="-455" frameY="-86" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF right0002" x="2006" y="1142" width="400" height="547" frameX="-472" frameY="-85" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF right0003" x="1604" y="586" width="389" height="547" frameX="-479" frameY="-84" frameWidth="1280" frameHeight="720" />
+<SubTexture name="3DBF right0004" x="1274" y="2395" width="400" height="540" frameX="-466" frameY="-83" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

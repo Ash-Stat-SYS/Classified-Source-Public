@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="appbfDIES.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf gameover0000" x="21" y="21" width="704" height="1142"/>
+	<SubTexture name="bf gameover0001" x="754" y="21" width="704" height="1142"/>
+	<SubTexture name="bf gameover0002" x="754" y="21" width="704" height="1142"/>
+	<SubTexture name="bf gameover0003" x="1487" y="21" width="704" height="1142"/>
+	<SubTexture name="bf gameover0004" x="1487" y="21" width="704" height="1142"/>
+	<SubTexture name="bf gameover0005" x="2220" y="21" width="704" height="1142"/>
+	<SubTexture name="bf gameover0006" x="2220" y="21" width="704" height="1142"/>
+	<SubTexture name="bf gameover0007" x="2953" y="21" width="704" height="1142"/>
+	<SubTexture name="bf gameover0008" x="2953" y="21" width="704" height="1142"/>
+	<SubTexture name="bf gameover0009" x="3686" y="21" width="704" height="1142"/>
+	<SubTexture name="bf gameover0010" x="3686" y="21" width="704" height="1142"/>
+	<SubTexture name="bf gameover0011" x="4419" y="21" width="704" height="1142"/>
+	<SubTexture name="bf gameover0012" x="4419" y="21" width="704" height="1142"/>
+	<SubTexture name="bf gameover0013" x="5152" y="21" width="704" height="1142"/>
+	<SubTexture name="bf gameover0014" x="5152" y="21" width="704" height="1142"/>
+	<SubTexture name="bf gameover0015" x="5885" y="21" width="704" height="1142"/>
+	<SubTexture name="bf gameover0016" x="5885" y="21" width="704" height="1142"/>
+	<SubTexture name="bf gameover0017" x="6618" y="21" width="704" height="1142"/>
+	<SubTexture name="bf gameover0018" x="6618" y="21" width="704" height="1142"/>
+	<SubTexture name="bf gameover0019" x="7351" y="21" width="704" height="1142"/>
+	<SubTexture name="bf gameover loop0000" x="21" y="1192" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0001" x="748" y="1192" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0002" x="1475" y="1192" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0003" x="2202" y="1192" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0004" x="2929" y="1192" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0005" x="3656" y="1192" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0006" x="4383" y="1192" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0007" x="5110" y="1192" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0008" x="5837" y="1192" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0009" x="6564" y="1192" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0010" x="7291" y="1192" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0011" x="21" y="2305" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0012" x="748" y="2305" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0013" x="1475" y="2305" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0014" x="2202" y="2305" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0015" x="2929" y="2305" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0016" x="3656" y="2305" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0017" x="4383" y="2305" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0018" x="5110" y="2305" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0019" x="5837" y="2305" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0020" x="6564" y="2305" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0021" x="7291" y="2305" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0022" x="21" y="3418" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0023" x="748" y="3418" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0024" x="1475" y="3418" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0025" x="2202" y="3418" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0026" x="2929" y="3418" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0027" x="3656" y="3418" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0028" x="4383" y="3418" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0029" x="5110" y="3418" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0030" x="5837" y="3418" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0031" x="6564" y="3418" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0032" x="7291" y="3418" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0033" x="21" y="4531" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0034" x="748" y="4531" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0035" x="21" y="4531" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0036" x="7291" y="3418" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0037" x="6564" y="3418" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0038" x="1475" y="4531" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0039" x="2202" y="4531" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0040" x="2929" y="4531" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0041" x="3656" y="4531" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0042" x="4383" y="4531" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0043" x="5110" y="4531" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0044" x="5837" y="4531" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0045" x="6564" y="4531" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0046" x="748" y="3418" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0047" x="21" y="3418" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0048" x="7291" y="4531" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0049" x="21" y="5644" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0050" x="748" y="5644" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0051" x="1475" y="5644" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0052" x="2202" y="5644" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0053" x="2929" y="5644" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0054" x="3656" y="5644" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0055" x="4383" y="5644" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0056" x="5110" y="5644" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0057" x="5837" y="5644" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0058" x="6564" y="5644" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0059" x="21" y="2305" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0060" x="7291" y="5644" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0061" x="21" y="6757" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0062" x="748" y="6757" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0063" x="1475" y="6757" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0064" x="2202" y="6757" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0065" x="2929" y="6757" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0066" x="3656" y="6757" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0067" x="4383" y="6757" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0068" x="5110" y="6757" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0069" x="1475" y="1192" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0070" x="748" y="1192" width="698" height="1084"/>
+	<SubTexture name="bf gameover loop0071" x="21" y="1192" width="698" height="1084"/>
+</TextureAtlas>

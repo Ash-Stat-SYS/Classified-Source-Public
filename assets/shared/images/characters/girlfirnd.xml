@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="girlfirnd.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf bop left0000" x="17" y="17" width="520" height="450" frameX="0" frameY="-2" frameWidth="531" frameHeight="452"/>
+	<SubTexture name="gf bop left0001" x="17" y="17" width="520" height="450" frameX="0" frameY="-2" frameWidth="531" frameHeight="452"/>
+	<SubTexture name="gf bop left0002" x="574" y="17" width="512" height="446" frameX="-3" frameY="-6" frameWidth="531" frameHeight="452"/>
+	<SubTexture name="gf bop left0003" x="574" y="17" width="512" height="446" frameX="-3" frameY="-6" frameWidth="531" frameHeight="452"/>
+	<SubTexture name="gf bop left0004" x="1123" y="17" width="508" height="446" frameX="-13" frameY="0" frameWidth="531" frameHeight="452"/>
+	<SubTexture name="gf bop left0005" x="1123" y="17" width="508" height="446" frameX="-13" frameY="0" frameWidth="531" frameHeight="452"/>
+	<SubTexture name="gf bop left0006" x="1668" y="17" width="476" height="425" frameX="-48" frameY="-20" frameWidth="531" frameHeight="452"/>
+	<SubTexture name="gf bop left0007" x="1668" y="17" width="476" height="425" frameX="-48" frameY="-20" frameWidth="531" frameHeight="452"/>
+	<SubTexture name="gf bop left0008" x="2181" y="17" width="479" height="427" frameX="-46" frameY="-18" frameWidth="531" frameHeight="452"/>
+	<SubTexture name="gf bop left0009" x="2181" y="17" width="479" height="427" frameX="-46" frameY="-18" frameWidth="531" frameHeight="452"/>
+	<SubTexture name="gf bop left0010" x="2697" y="17" width="482" height="427" frameX="-45" frameY="-18" frameWidth="531" frameHeight="452"/>
+	<SubTexture name="gf bop left0011" x="2697" y="17" width="482" height="427" frameX="-45" frameY="-18" frameWidth="531" frameHeight="452"/>
+	<SubTexture name="gf bop left0012" x="2697" y="17" width="482" height="427" frameX="-45" frameY="-18" frameWidth="531" frameHeight="452"/>
+	<SubTexture name="gf bop left0013" x="3216" y="17" width="484" height="428" frameX="-47" frameY="-17" frameWidth="531" frameHeight="452"/>
+	<SubTexture name="gf bop left0014" x="3216" y="17" width="484" height="428" frameX="-47" frameY="-17" frameWidth="531" frameHeight="452"/>
+	<SubTexture name="gf bop right0000" x="17" y="504" width="486" height="427" frameX="-50" frameY="-29" frameWidth="543" frameHeight="457"/>
+	<SubTexture name="gf bop right0001" x="17" y="504" width="486" height="427" frameX="-50" frameY="-29" frameWidth="543" frameHeight="457"/>
+	<SubTexture name="gf bop right0002" x="540" y="504" width="492" height="426" frameX="-51" frameY="-31" frameWidth="543" frameHeight="457"/>
+	<SubTexture name="gf bop right0003" x="540" y="504" width="492" height="426" frameX="-51" frameY="-31" frameWidth="543" frameHeight="457"/>
+	<SubTexture name="gf bop right0004" x="1069" y="504" width="515" height="451" frameX="-27" frameY="-1" frameWidth="543" frameHeight="457"/>
+	<SubTexture name="gf bop right0005" x="1069" y="504" width="515" height="451" frameX="-27" frameY="-1" frameWidth="543" frameHeight="457"/>
+	<SubTexture name="gf bop right0006" x="1621" y="504" width="529" height="452" frameX="-6" frameY="0" frameWidth="543" frameHeight="457"/>
+	<SubTexture name="gf bop right0007" x="1621" y="504" width="529" height="452" frameX="-6" frameY="0" frameWidth="543" frameHeight="457"/>
+	<SubTexture name="gf bop right0008" x="2187" y="504" width="531" height="452" frameX="-3" frameY="0" frameWidth="543" frameHeight="457"/>
+	<SubTexture name="gf bop right0009" x="2187" y="504" width="531" height="452" frameX="-3" frameY="0" frameWidth="543" frameHeight="457"/>
+	<SubTexture name="gf bop right0010" x="2755" y="504" width="530" height="452" frameX="-2" frameY="0" frameWidth="543" frameHeight="457"/>
+	<SubTexture name="gf bop right0011" x="2755" y="504" width="530" height="452" frameX="-2" frameY="0" frameWidth="543" frameHeight="457"/>
+	<SubTexture name="gf bop right0012" x="2755" y="504" width="530" height="452" frameX="-2" frameY="0" frameWidth="543" frameHeight="457"/>
+	<SubTexture name="gf bop right0013" x="3322" y="504" width="528" height="451" frameX="0" frameY="-1" frameWidth="543" frameHeight="457"/>
+	<SubTexture name="gf bop right0014" x="3322" y="504" width="528" height="451" frameX="0" frameY="-1" frameWidth="543" frameHeight="457"/>
+</TextureAtlas>

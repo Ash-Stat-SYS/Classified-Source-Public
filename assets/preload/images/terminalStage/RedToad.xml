@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RedToad.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Red Toad_Idle0000" x="0" y="0" width="361" height="274" frameX="0" frameY="-31" frameWidth="361" frameHeight="306"/>
+	<SubTexture name="Red Toad_Idle0001" x="0" y="0" width="361" height="274" frameX="0" frameY="-31" frameWidth="361" frameHeight="306"/>
+	<SubTexture name="Red Toad_Idle0002" x="361" y="0" width="285" height="288" frameX="-38" frameY="-17" frameWidth="361" frameHeight="306"/>
+	<SubTexture name="Red Toad_Idle0003" x="361" y="0" width="285" height="288" frameX="-38" frameY="-17" frameWidth="361" frameHeight="306"/>
+	<SubTexture name="Red Toad_Idle0004" x="646" y="0" width="258" height="303" frameX="-55" frameY="-3" frameWidth="361" frameHeight="306"/>
+	<SubTexture name="Red Toad_Idle0005" x="646" y="0" width="258" height="303" frameX="-55" frameY="-3" frameWidth="361" frameHeight="306"/>
+	<SubTexture name="Red Toad_Idle0006" x="904" y="0" width="251" height="306" frameX="-59" frameY="0" frameWidth="361" frameHeight="306"/>
+	<SubTexture name="Red Toad_Idle0007" x="904" y="0" width="251" height="306" frameX="-59" frameY="0" frameWidth="361" frameHeight="306"/>
+	<SubTexture name="Red Toad_Idle0008" x="904" y="0" width="251" height="306" frameX="-59" frameY="0" frameWidth="361" frameHeight="306"/>
+	<SubTexture name="Red Toad_Idle0009" x="904" y="0" width="251" height="306" frameX="-59" frameY="0" frameWidth="361" frameHeight="306"/>
+	<SubTexture name="Red Toad_Idle0010" x="904" y="0" width="251" height="306" frameX="-59" frameY="0" frameWidth="361" frameHeight="306"/>
+	<SubTexture name="Red Toad_Idle0011" x="904" y="0" width="251" height="306" frameX="-59" frameY="0" frameWidth="361" frameHeight="306"/>
+	<SubTexture name="Red Toad_Idle0012" x="904" y="0" width="251" height="306" frameX="-59" frameY="0" frameWidth="361" frameHeight="306"/>
+	<SubTexture name="Red Toad_Idle0013" x="904" y="0" width="251" height="306" frameX="-59" frameY="0" frameWidth="361" frameHeight="306"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-120,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "speedrunner idle"
+		},
+		{
+			"offsets": [
+				143,
+				-159
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "speedrunner left"
+		},
+		{
+			"offsets": [
+				44,
+				-171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "speedrunner down"
+		},
+		{
+			"offsets": [
+				-112,
+				105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "speedrunner up"
+		},
+		{
+			"offsets": [
+				-230,
+				-97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "speedrunner right"
+		},
+		{
+			"offsets": [
+				792,
+				211
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "spazz",
+			"indices": [],
+			"name": "speedrunner spazz"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/speedrunnerMario",
+	"position": [
+		-240,
+		60
+	],
+	"healthicon": "speedrunner",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		190,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

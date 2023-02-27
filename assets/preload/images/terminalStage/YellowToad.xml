@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="YellowToad.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="YellowToad_Idle instance 10000" x="0" y="0" width="580" height="429" frameX="-2" frameY="-18" frameWidth="586" frameHeight="447"/>
+	<SubTexture name="YellowToad_Idle instance 10001" x="0" y="0" width="580" height="429" frameX="-2" frameY="-18" frameWidth="586" frameHeight="447"/>
+	<SubTexture name="YellowToad_Idle instance 10002" x="580" y="0" width="566" height="435" frameX="0" frameY="-9" frameWidth="586" frameHeight="447"/>
+	<SubTexture name="YellowToad_Idle instance 10003" x="580" y="0" width="566" height="435" frameX="0" frameY="-9" frameWidth="586" frameHeight="447"/>
+	<SubTexture name="YellowToad_Idle instance 10004" x="1146" y="0" width="553" height="439" frameX="-22" frameY="-1" frameWidth="586" frameHeight="447"/>
+	<SubTexture name="YellowToad_Idle instance 10005" x="1146" y="0" width="553" height="439" frameX="-22" frameY="-1" frameWidth="586" frameHeight="447"/>
+	<SubTexture name="YellowToad_Idle instance 10006" x="1699" y="0" width="553" height="439" frameX="-33" frameY="0" frameWidth="586" frameHeight="447"/>
+	<SubTexture name="YellowToad_Idle instance 10007" x="1699" y="0" width="553" height="439" frameX="-33" frameY="0" frameWidth="586" frameHeight="447"/>
+	<SubTexture name="YellowToad_Idle instance 10008" x="1699" y="0" width="553" height="439" frameX="-33" frameY="0" frameWidth="586" frameHeight="447"/>
+	<SubTexture name="YellowToad_Idle instance 10009" x="1699" y="0" width="553" height="439" frameX="-33" frameY="0" frameWidth="586" frameHeight="447"/>
+	<SubTexture name="YellowToad_Idle instance 10010" x="1699" y="0" width="553" height="439" frameX="-33" frameY="0" frameWidth="586" frameHeight="447"/>
+	<SubTexture name="YellowToad_Idle instance 10011" x="1699" y="0" width="553" height="439" frameX="-33" frameY="0" frameWidth="586" frameHeight="447"/>
+	<SubTexture name="YellowToad_Idle instance 10012" x="1699" y="0" width="553" height="439" frameX="-33" frameY="0" frameWidth="586" frameHeight="447"/>
+	<SubTexture name="YellowToad_Idle instance 10013" x="1699" y="0" width="553" height="439" frameX="-33" frameY="0" frameWidth="586" frameHeight="447"/>
+</TextureAtlas>

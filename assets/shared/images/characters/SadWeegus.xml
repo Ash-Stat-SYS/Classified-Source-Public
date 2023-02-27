@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SadWeegus.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DownLuige0000" x="10" y="10" width="740" height="840"/>
+	<SubTexture name="DownLuige0001" x="753" y="10" width="740" height="840"/>
+	<SubTexture name="DownLuige0002" x="1496" y="10" width="740" height="840"/>
+	<SubTexture name="DownLuige0003" x="1496" y="10" width="740" height="840"/>
+	<SubTexture name="DownLuige0004" x="2239" y="10" width="740" height="840"/>
+	<SubTexture name="DownLuige0005" x="2239" y="10" width="740" height="840"/>
+	<SubTexture name="DownLuige0006" x="2982" y="10" width="740" height="840"/>
+	<SubTexture name="DownLuige0007" x="2982" y="10" width="740" height="840"/>
+	<SubTexture name="DownLuige0008" x="3725" y="10" width="740" height="840"/>
+	<SubTexture name="DownLuige0009" x="3725" y="10" width="740" height="840"/>
+	<SubTexture name="DownLuige0010" x="4468" y="10" width="740" height="840"/>
+	<SubTexture name="DownLuige0011" x="4468" y="10" width="740" height="840"/>
+	<SubTexture name="DownLuige0012" x="4468" y="10" width="740" height="840"/>
+	<SubTexture name="DownLuige0013" x="4468" y="10" width="740" height="840"/>
+	<SubTexture name="DownLuige0014" x="4468" y="10" width="740" height="840"/>
+	<SubTexture name="DownLuige0015" x="4468" y="10" width="740" height="840"/>
+	<SubTexture name="DownLuige0016" x="4468" y="10" width="740" height="840"/>
+	<SubTexture name="DownLuige0017" x="4468" y="10" width="740" height="840"/>
+	<SubTexture name="DownLuige0018" x="4468" y="10" width="740" height="840"/>
+	<SubTexture name="DownLuige0019" x="4468" y="10" width="740" height="840"/>
+	<SubTexture name="DownLuige0020" x="4468" y="10" width="740" height="840"/>
+	<SubTexture name="LeftLuige0000" x="5211" y="10" width="807" height="932"/>
+	<SubTexture name="LeftLuige0001" x="6021" y="10" width="807" height="932"/>
+	<SubTexture name="LeftLuige0002" x="6831" y="10" width="807" height="932"/>
+	<SubTexture name="LeftLuige0003" x="6831" y="10" width="807" height="932"/>
+	<SubTexture name="LeftLuige0004" x="10" y="945" width="807" height="932"/>
+	<SubTexture name="LeftLuige0005" x="10" y="945" width="807" height="932"/>
+	<SubTexture name="LeftLuige0006" x="820" y="945" width="807" height="932"/>
+	<SubTexture name="LeftLuige0007" x="820" y="945" width="807" height="932"/>
+	<SubTexture name="LeftLuige0008" x="1630" y="945" width="807" height="932"/>
+	<SubTexture name="LeftLuige0009" x="1630" y="945" width="807" height="932"/>
+	<SubTexture name="LeftLuige0010" x="2440" y="945" width="807" height="932"/>
+	<SubTexture name="LeftLuige0011" x="2440" y="945" width="807" height="932"/>
+	<SubTexture name="LeftLuige0012" x="2440" y="945" width="807" height="932"/>
+	<SubTexture name="LeftLuige0013" x="2440" y="945" width="807" height="932"/>
+	<SubTexture name="LeftLuige0014" x="2440" y="945" width="807" height="932"/>
+	<SubTexture name="LeftLuige0015" x="2440" y="945" width="807" height="932"/>
+	<SubTexture name="LeftLuige0016" x="2440" y="945" width="807" height="932"/>
+	<SubTexture name="LeftLuige0017" x="2440" y="945" width="807" height="932"/>
+	<SubTexture name="LeftLuige0018" x="2440" y="945" width="807" height="932"/>
+	<SubTexture name="LeftLuige0019" x="2440" y="945" width="807" height="932"/>
+	<SubTexture name="LeftLuige0020" x="2440" y="945" width="807" height="932"/>
+	<SubTexture name="RightLuige0000" x="3250" y="945" width="704" height="786"/>
+	<SubTexture name="RightLuige0001" x="3957" y="945" width="704" height="786"/>
+	<SubTexture name="RightLuige0002" x="4664" y="945" width="704" height="786"/>
+	<SubTexture name="RightLuige0003" x="4664" y="945" width="704" height="786"/>
+	<SubTexture name="RightLuige0004" x="5371" y="945" width="704" height="786"/>
+	<SubTexture name="RightLuige0005" x="5371" y="945" width="704" height="786"/>
+	<SubTexture name="RightLuige0006" x="6078" y="945" width="704" height="786"/>
+	<SubTexture name="RightLuige0007" x="6078" y="945" width="704" height="786"/>
+	<SubTexture name="RightLuige0008" x="6785" y="945" width="704" height="786"/>
+	<SubTexture name="RightLuige0009" x="6785" y="945" width="704" height="786"/>
+	<SubTexture name="RightLuige0010" x="10" y="1880" width="704" height="786"/>
+	<SubTexture name="RightLuige0011" x="10" y="1880" width="704" height="786"/>
+	<SubTexture name="RightLuige0012" x="10" y="1880" width="704" height="786"/>
+	<SubTexture name="RightLuige0013" x="10" y="1880" width="704" height="786"/>
+	<SubTexture name="RightLuige0014" x="10" y="1880" width="704" height="786"/>
+	<SubTexture name="RightLuige0015" x="10" y="1880" width="704" height="786"/>
+	<SubTexture name="RightLuige0016" x="10" y="1880" width="704" height="786"/>
+	<SubTexture name="RightLuige0017" x="10" y="1880" width="704" height="786"/>
+	<SubTexture name="RightLuige0018" x="10" y="1880" width="704" height="786"/>
+	<SubTexture name="RightLuige0019" x="10" y="1880" width="704" height="786"/>
+	<SubTexture name="RightLuige0020" x="10" y="1880" width="704" height="786"/>
+	<SubTexture name="UpLuige0000" x="717" y="1880" width="942" height="1079" frameX="0" frameY="0" frameWidth="947" frameHeight="1079"/>
+	<SubTexture name="UpLuige0001" x="1662" y="1880" width="947" height="1079"/>
+	<SubTexture name="UpLuige0002" x="2612" y="1880" width="942" height="1079" frameX="0" frameY="0" frameWidth="947" frameHeight="1079"/>
+	<SubTexture name="UpLuige0003" x="2612" y="1880" width="942" height="1079" frameX="0" frameY="0" frameWidth="947" frameHeight="1079"/>
+	<SubTexture name="UpLuige0004" x="3557" y="1880" width="942" height="1079" frameX="0" frameY="0" frameWidth="947" frameHeight="1079"/>
+	<SubTexture name="UpLuige0005" x="3557" y="1880" width="942" height="1079" frameX="0" frameY="0" frameWidth="947" frameHeight="1079"/>
+	<SubTexture name="UpLuige0006" x="4502" y="1880" width="942" height="1079" frameX="0" frameY="0" frameWidth="947" frameHeight="1079"/>
+	<SubTexture name="UpLuige0007" x="4502" y="1880" width="942" height="1079" frameX="0" frameY="0" frameWidth="947" frameHeight="1079"/>
+	<SubTexture name="UpLuige0008" x="5447" y="1880" width="942" height="1079" frameX="0" frameY="0" frameWidth="947" frameHeight="1079"/>
+	<SubTexture name="UpLuige0009" x="5447" y="1880" width="942" height="1079" frameX="0" frameY="0" frameWidth="947" frameHeight="1079"/>
+	<SubTexture name="UpLuige0010" x="5447" y="1880" width="942" height="1079" frameX="0" frameY="0" frameWidth="947" frameHeight="1079"/>
+	<SubTexture name="UpLuige0011" x="5447" y="1880" width="942" height="1079" frameX="0" frameY="0" frameWidth="947" frameHeight="1079"/>
+	<SubTexture name="UpLuige0012" x="5447" y="1880" width="942" height="1079" frameX="0" frameY="0" frameWidth="947" frameHeight="1079"/>
+	<SubTexture name="UpLuige0013" x="5447" y="1880" width="942" height="1079" frameX="0" frameY="0" frameWidth="947" frameHeight="1079"/>
+	<SubTexture name="UpLuige0014" x="5447" y="1880" width="942" height="1079" frameX="0" frameY="0" frameWidth="947" frameHeight="1079"/>
+	<SubTexture name="UpLuige0015" x="5447" y="1880" width="942" height="1079" frameX="0" frameY="0" frameWidth="947" frameHeight="1079"/>
+	<SubTexture name="UpLuige0016" x="5447" y="1880" width="942" height="1079" frameX="0" frameY="0" frameWidth="947" frameHeight="1079"/>
+	<SubTexture name="UpLuige0017" x="5447" y="1880" width="942" height="1079" frameX="0" frameY="0" frameWidth="947" frameHeight="1079"/>
+	<SubTexture name="UpLuige0018" x="5447" y="1880" width="942" height="1079" frameX="0" frameY="0" frameWidth="947" frameHeight="1079"/>
+	<SubTexture name="UpLuige0019" x="5447" y="1880" width="942" height="1079" frameX="0" frameY="0" frameWidth="947" frameHeight="1079"/>
+	<SubTexture name="UpLuige0020" x="5447" y="1880" width="942" height="1079" frameX="0" frameY="0" frameWidth="947" frameHeight="1079"/>
+	<SubTexture name="luigeidle0000" x="6392" y="1880" width="719" height="825"/>
+	<SubTexture name="luigeidle0001" x="6392" y="1880" width="719" height="825"/>
+	<SubTexture name="luigeidle0002" x="6392" y="1880" width="719" height="825"/>
+	<SubTexture name="luigeidle0003" x="7114" y="1880" width="719" height="825"/>
+	<SubTexture name="luigeidle0004" x="7114" y="1880" width="719" height="825"/>
+	<SubTexture name="luigeidle0005" x="7114" y="1880" width="719" height="825"/>
+	<SubTexture name="luigeidle0006" x="10" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0007" x="10" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0008" x="10" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0009" x="10" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0010" x="732" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0011" x="732" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0012" x="732" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0013" x="732" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0014" x="1454" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0015" x="1454" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0016" x="1454" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0017" x="1454" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0018" x="2176" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0019" x="2176" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0020" x="2176" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0021" x="2176" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0022" x="2898" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0023" x="2898" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0024" x="2898" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0025" x="3620" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0026" x="3620" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0027" x="3620" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0028" x="4342" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0029" x="4342" y="2962" width="719" height="825"/>
+	<SubTexture name="luigeidle0030" x="4342" y="2962" width="719" height="825"/>
+</TextureAtlas>

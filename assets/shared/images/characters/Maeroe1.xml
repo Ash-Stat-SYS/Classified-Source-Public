@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Maeroe1.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mario Down0000" x="3596" y="5029" width="601" height="512" frameX="0" frameY="-69" frameWidth="601" frameHeight="581"/>
+	<SubTexture name="Mario Down0001" x="1368" y="5079" width="601" height="512" frameX="0" frameY="-69" frameWidth="601" frameHeight="581"/>
+	<SubTexture name="Mario Down0002" x="6508" y="3967" width="595" height="553" frameX="-2" frameY="-28" frameWidth="601" frameHeight="581"/>
+	<SubTexture name="Mario Down0003" x="7103" y="3967" width="595" height="553" frameX="-2" frameY="-28" frameWidth="601" frameHeight="581"/>
+	<SubTexture name="Mario Down0004" x="588" y="3929" width="592" height="574" frameX="-3" frameY="-7" frameWidth="601" frameHeight="581"/>
+	<SubTexture name="Mario Down0005" x="1180" y="3929" width="592" height="574" frameX="-3" frameY="-7" frameWidth="601" frameHeight="581"/>
+	<SubTexture name="Mario Down0006" x="2870" y="2348" width="588" height="581" frameX="-7" frameY="0" frameWidth="601" frameHeight="581"/>
+	<SubTexture name="Mario Down0007" x="638" y="3348" width="588" height="581" frameX="-7" frameY="0" frameWidth="601" frameHeight="581"/>
+	<SubTexture name="Mario Down0008" x="1226" y="3348" width="588" height="581" frameX="-7" frameY="0" frameWidth="601" frameHeight="581"/>
+	<SubTexture name="Mario Down0009" x="0" y="3389" width="588" height="581" frameX="-7" frameY="0" frameWidth="601" frameHeight="581"/>
+	<SubTexture name="Mario Down0010" x="2784" y="3745" width="588" height="581" frameX="-7" frameY="0" frameWidth="601" frameHeight="581"/>
+	<SubTexture name="Mario Down0011" x="3372" y="3745" width="588" height="581" frameX="-7" frameY="0" frameWidth="601" frameHeight="581"/>
+	<SubTexture name="Mario Down0012" x="4784" y="3755" width="588" height="581" frameX="-7" frameY="0" frameWidth="601" frameHeight="581"/>
+	<SubTexture name="Mario Down0013" x="3960" y="3764" width="588" height="581" frameX="-7" frameY="0" frameWidth="601" frameHeight="581"/>
+	<SubTexture name="Mario Down0014" x="1814" y="3814" width="588" height="581" frameX="-7" frameY="0" frameWidth="601" frameHeight="581"/>
+	<SubTexture name="Mario Game Over0000" x="7738" y="5330" width="450" height="666" frameX="-8" frameY="-18" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0001" x="5588" y="5869" width="450" height="666" frameX="-8" frameY="-18" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0002" x="4682" y="5123" width="450" height="678" frameX="-8" frameY="-6" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0003" x="456" y="5187" width="450" height="678" frameX="-8" frameY="-6" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0004" x="6038" y="6530" width="451" height="649" frameX="-6" frameY="-35" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0005" x="6489" y="6530" width="451" height="649" frameX="-6" frameY="-35" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0006" x="5240" y="1662" width="454" height="670" frameX="-2" frameY="-14" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0007" x="906" y="5187" width="454" height="670" frameX="-2" frameY="-14" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0008" x="5916" y="5199" width="454" height="670" frameX="-2" frameY="-14" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0009" x="4601" y="739" width="456" height="684" frameX="0" frameY="0" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0010" x="5372" y="3755" width="456" height="684" frameX="0" frameY="0" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0011" x="7698" y="3967" width="456" height="684" frameX="0" frameY="0" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0012" x="0" y="3970" width="456" height="684" frameX="0" frameY="0" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0013" x="5828" y="3985" width="456" height="684" frameX="0" frameY="0" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0014" x="2402" y="4326" width="456" height="684" frameX="0" frameY="0" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0015" x="2858" y="4326" width="456" height="684" frameX="0" frameY="0" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0016" x="3314" y="4326" width="456" height="684" frameX="0" frameY="0" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0017" x="4548" y="4336" width="456" height="684" frameX="0" frameY="0" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0018" x="3770" y="4345" width="456" height="684" frameX="0" frameY="0" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0019" x="1772" y="4395" width="456" height="684" frameX="0" frameY="0" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0020" x="5004" y="4439" width="456" height="684" frameX="0" frameY="0" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0021" x="456" y="4503" width="456" height="684" frameX="0" frameY="0" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0022" x="912" y="4503" width="456" height="684" frameX="0" frameY="0" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0023" x="6284" y="4520" width="456" height="679" frameX="0" frameY="-5" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0024" x="6740" y="4520" width="456" height="679" frameX="0" frameY="-5" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0025" x="7196" y="4520" width="456" height="679" frameX="0" frameY="-5" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0026" x="7652" y="4651" width="456" height="679" frameX="0" frameY="-5" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0027" x="0" y="4654" width="456" height="679" frameX="0" frameY="-5" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0028" x="5460" y="4669" width="456" height="679" frameX="0" frameY="-5" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0029" x="2228" y="5010" width="456" height="679" frameX="0" frameY="-5" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0030" x="2684" y="5010" width="456" height="679" frameX="0" frameY="-5" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0031" x="3140" y="5010" width="456" height="679" frameX="0" frameY="-5" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0032" x="4226" y="5020" width="456" height="679" frameX="0" frameY="-5" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0033" x="6370" y="5865" width="456" height="665" frameX="0" frameY="-19" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0034" x="6826" y="5865" width="456" height="665" frameX="0" frameY="-19" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0035" x="6370" y="5199" width="456" height="666" frameX="0" frameY="-18" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0036" x="6826" y="5199" width="456" height="666" frameX="0" frameY="-18" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0037" x="7282" y="5330" width="456" height="666" frameX="0" frameY="-18" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0038" x="0" y="5333" width="456" height="666" frameX="0" frameY="-18" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0039" x="5132" y="5348" width="456" height="666" frameX="0" frameY="-18" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0040" x="3596" y="5541" width="456" height="666" frameX="0" frameY="-18" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0041" x="1360" y="5591" width="456" height="666" frameX="0" frameY="-18" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0042" x="1816" y="5689" width="456" height="666" frameX="0" frameY="-18" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0043" x="2272" y="5689" width="456" height="666" frameX="0" frameY="-18" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0044" x="2728" y="5689" width="456" height="666" frameX="0" frameY="-18" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0045" x="4052" y="5699" width="456" height="666" frameX="0" frameY="-18" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0046" x="4508" y="5801" width="456" height="666" frameX="0" frameY="-18" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0047" x="456" y="5865" width="456" height="666" frameX="0" frameY="-18" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Game Over0048" x="0" y="0" width="0" height="0" frameX="-8" frameY="-18" frameWidth="458" frameHeight="684"/>
+	<SubTexture name="Mario Idle0000" x="868" y="1971" width="464" height="632" frameX="0" frameY="-34" frameWidth="464" frameHeight="666"/>
+	<SubTexture name="Mario Idle0001" x="4089" y="6467" width="464" height="632" frameX="0" frameY="-34" frameWidth="464" frameHeight="666"/>
+	<SubTexture name="Mario Idle0002" x="450" y="6531" width="458" height="637" frameX="-3" frameY="-29" frameWidth="464" frameHeight="666"/>
+	<SubTexture name="Mario Idle0003" x="5414" y="6535" width="458" height="637" frameX="-3" frameY="-29" frameWidth="464" frameHeight="666"/>
+	<SubTexture name="Mario Idle0004" x="2716" y="6355" width="455" height="648" frameX="-4" frameY="-18" frameWidth="464" frameHeight="666"/>
+	<SubTexture name="Mario Idle0005" x="3634" y="6365" width="455" height="648" frameX="-4" frameY="-18" frameWidth="464" frameHeight="666"/>
+	<SubTexture name="Mario Idle0006" x="1812" y="6355" width="452" height="659" frameX="-6" frameY="-7" frameWidth="464" frameHeight="666"/>
+	<SubTexture name="Mario Idle0007" x="2264" y="6355" width="452" height="659" frameX="-6" frameY="-7" frameWidth="464" frameHeight="666"/>
+	<SubTexture name="Mario Idle0008" x="7282" y="5996" width="450" height="666" frameX="-9" frameY="0" frameWidth="464" frameHeight="666"/>
+	<SubTexture name="Mario Idle0009" x="7732" y="5996" width="450" height="666" frameX="-9" frameY="0" frameWidth="464" frameHeight="666"/>
+	<SubTexture name="Mario Idle0010" x="0" y="5999" width="450" height="666" frameX="-9" frameY="0" frameWidth="464" frameHeight="666"/>
+	<SubTexture name="Mario Idle0011" x="4964" y="6014" width="450" height="666" frameX="-9" frameY="0" frameWidth="464" frameHeight="666"/>
+	<SubTexture name="Mario Idle0012" x="3184" y="6207" width="450" height="666" frameX="-9" frameY="0" frameWidth="464" frameHeight="666"/>
+	<SubTexture name="Mario Idle0013" x="912" y="6257" width="450" height="666" frameX="-9" frameY="0" frameWidth="464" frameHeight="666"/>
+	<SubTexture name="Mario Idle0014" x="1362" y="6257" width="450" height="666" frameX="-9" frameY="0" frameWidth="464" frameHeight="666"/>
+	<SubTexture name="Mario Left0000" x="2200" y="2348" width="670" height="734" frameX="0" frameY="-3" frameWidth="677" frameHeight="737"/>
+	<SubTexture name="Mario Left0001" x="6108" y="2519" width="670" height="734" frameX="0" frameY="-3" frameWidth="677" frameHeight="737"/>
+	<SubTexture name="Mario Left0002" x="6508" y="3260" width="646" height="707" frameX="-30" frameY="-30" frameWidth="677" frameHeight="737"/>
+	<SubTexture name="Mario Left0003" x="7154" y="3260" width="646" height="707" frameX="-30" frameY="-30" frameWidth="677" frameHeight="737"/>
+	<SubTexture name="Mario Left0004" x="2144" y="3082" width="640" height="732" frameX="-37" frameY="-5" frameWidth="677" frameHeight="737"/>
+	<SubTexture name="Mario Left0005" x="5868" y="3253" width="640" height="732" frameX="-37" frameY="-5" frameWidth="677" frameHeight="737"/>
+	<SubTexture name="Mario Left0006" x="6778" y="2523" width="638" height="737" frameX="-39" frameY="0" frameWidth="677" frameHeight="737"/>
+	<SubTexture name="Mario Left0007" x="7416" y="2523" width="638" height="737" frameX="-39" frameY="0" frameWidth="677" frameHeight="737"/>
+	<SubTexture name="Mario Left0008" x="868" y="2611" width="638" height="737" frameX="-39" frameY="0" frameWidth="677" frameHeight="737"/>
+	<SubTexture name="Mario Left0009" x="1506" y="2611" width="638" height="737" frameX="-39" frameY="0" frameWidth="677" frameHeight="737"/>
+	<SubTexture name="Mario Left0010" x="0" y="2652" width="638" height="737" frameX="-39" frameY="0" frameWidth="677" frameHeight="737"/>
+	<SubTexture name="Mario Left0011" x="2870" y="3008" width="638" height="737" frameX="-39" frameY="0" frameWidth="677" frameHeight="737"/>
+	<SubTexture name="Mario Left0012" x="3508" y="3008" width="638" height="737" frameX="-39" frameY="0" frameWidth="677" frameHeight="737"/>
+	<SubTexture name="Mario Left0013" x="5230" y="3018" width="638" height="737" frameX="-39" frameY="0" frameWidth="677" frameHeight="737"/>
+	<SubTexture name="Mario Left0014" x="4146" y="3027" width="638" height="737" frameX="-39" frameY="0" frameWidth="677" frameHeight="737"/>
+	<SubTexture name="Mario Right0000" x="3036" y="0" width="1023" height="739"/>
+	<SubTexture name="Mario Right0001" x="4059" y="0" width="1023" height="739"/>
+	<SubTexture name="Mario Right0002" x="5082" y="0" width="985" height="728" frameX="0" frameY="-11" frameWidth="1023" frameHeight="739"/>
+	<SubTexture name="Mario Right0003" x="6067" y="0" width="985" height="728" frameX="0" frameY="-11" frameWidth="1023" frameHeight="739"/>
+	<SubTexture name="Mario Right0004" x="5777" y="728" width="895" height="701" frameX="-12" frameY="-38" frameWidth="1023" frameHeight="739"/>
+	<SubTexture name="Mario Right0005" x="3036" y="739" width="895" height="701" frameX="-12" frameY="-38" frameWidth="1023" frameHeight="739"/>
+	<SubTexture name="Mario Right0006" x="3494" y="1643" width="873" height="684" frameX="-9" frameY="-55" frameWidth="1023" frameHeight="739"/>
+	<SubTexture name="Mario Right0007" x="4367" y="1662" width="873" height="684" frameX="-9" frameY="-55" frameWidth="1023" frameHeight="739"/>
+	<SubTexture name="Mario Right0008" x="6443" y="1838" width="868" height="681" frameX="-6" frameY="-58" frameWidth="1023" frameHeight="739"/>
+	<SubTexture name="Mario Right0009" x="7311" y="1842" width="868" height="681" frameX="-6" frameY="-58" frameWidth="1023" frameHeight="739"/>
+	<SubTexture name="Mario Right0010" x="1332" y="1930" width="868" height="681" frameX="-6" frameY="-58" frameWidth="1023" frameHeight="739"/>
+	<SubTexture name="Mario Right0011" x="0" y="1971" width="868" height="681" frameX="-6" frameY="-58" frameWidth="1023" frameHeight="739"/>
+	<SubTexture name="Mario Right0012" x="3494" y="2327" width="868" height="681" frameX="-6" frameY="-58" frameWidth="1023" frameHeight="739"/>
+	<SubTexture name="Mario Right0013" x="5240" y="2337" width="868" height="681" frameX="-6" frameY="-58" frameWidth="1023" frameHeight="739"/>
+	<SubTexture name="Mario Right0014" x="4362" y="2346" width="868" height="681" frameX="-6" frameY="-58" frameWidth="1023" frameHeight="739"/>
+	<SubTexture name="Mario Up0000" x="0" y="0" width="748" height="1063" frameX="-8" frameY="0" frameWidth="770" frameHeight="1063"/>
+	<SubTexture name="Mario Up0001" x="748" y="0" width="748" height="1063" frameX="-8" frameY="0" frameWidth="770" frameHeight="1063"/>
+	<SubTexture name="Mario Up0002" x="1496" y="0" width="770" height="1022" frameX="0" frameY="-41" frameWidth="770" frameHeight="1063"/>
+	<SubTexture name="Mario Up0003" x="2266" y="0" width="770" height="1022" frameX="0" frameY="-41" frameWidth="770" frameHeight="1063"/>
+	<SubTexture name="Mario Up0004" x="7052" y="0" width="695" height="934" frameX="-56" frameY="-129" frameWidth="770" frameHeight="1063"/>
+	<SubTexture name="Mario Up0005" x="5082" y="728" width="695" height="934" frameX="-56" frameY="-129" frameWidth="770" frameHeight="1063"/>
+	<SubTexture name="Mario Up0006" x="3931" y="739" width="670" height="904" frameX="-67" frameY="-159" frameWidth="770" frameHeight="1063"/>
+	<SubTexture name="Mario Up0007" x="6672" y="934" width="670" height="904" frameX="-67" frameY="-159" frameWidth="770" frameHeight="1063"/>
+	<SubTexture name="Mario Up0008" x="7342" y="934" width="666" height="908" frameX="-70" frameY="-155" frameWidth="770" frameHeight="1063"/>
+	<SubTexture name="Mario Up0009" x="1496" y="1022" width="666" height="908" frameX="-70" frameY="-155" frameWidth="770" frameHeight="1063"/>
+	<SubTexture name="Mario Up0010" x="2162" y="1022" width="666" height="908" frameX="-70" frameY="-155" frameWidth="770" frameHeight="1063"/>
+	<SubTexture name="Mario Up0011" x="0" y="1063" width="666" height="908" frameX="-70" frameY="-155" frameWidth="770" frameHeight="1063"/>
+	<SubTexture name="Mario Up0012" x="666" y="1063" width="666" height="908" frameX="-70" frameY="-155" frameWidth="770" frameHeight="1063"/>
+	<SubTexture name="Mario Up0013" x="5777" y="1429" width="666" height="908" frameX="-70" frameY="-155" frameWidth="770" frameHeight="1063"/>
+	<SubTexture name="Mario Up0014" x="2828" y="1440" width="666" height="908" frameX="-70" frameY="-155" frameWidth="770" frameHeight="1063"/>
+</TextureAtlas>

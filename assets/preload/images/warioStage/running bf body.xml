@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="running bf body.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bf idle body0000" x="0" y="0" width="315" height="333" frameX="0" frameY="-12" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0001" x="0" y="0" width="315" height="333" frameX="0" frameY="-12" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0002" x="315" y="0" width="307" height="338" frameX="0" frameY="-1" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0003" x="315" y="0" width="307" height="338" frameX="0" frameY="-1" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0004" x="622" y="0" width="306" height="338" frameX="0" frameY="0" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0005" x="622" y="0" width="306" height="338" frameX="0" frameY="0" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0006" x="928" y="0" width="306" height="338" frameX="0" frameY="0" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0007" x="928" y="0" width="306" height="338" frameX="0" frameY="0" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0008" x="1234" y="0" width="305" height="339" frameX="0" frameY="-3" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0009" x="1234" y="0" width="305" height="339" frameX="0" frameY="-3" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0010" x="1539" y="0" width="304" height="341" frameX="0" frameY="-10" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0011" x="0" y="341" width="306" height="338" frameX="0" frameY="-16" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0012" x="0" y="341" width="306" height="338" frameX="0" frameY="-16" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0013" x="306" y="341" width="291" height="360" frameX="-16" frameY="-25" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0014" x="306" y="341" width="291" height="360" frameX="-16" frameY="-25" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0015" x="597" y="341" width="315" height="333" frameX="-44" frameY="-12" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0016" x="597" y="341" width="315" height="333" frameX="-44" frameY="-12" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0017" x="912" y="341" width="312" height="338" frameX="-42" frameY="-1" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0018" x="912" y="341" width="312" height="338" frameX="-42" frameY="-1" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0019" x="1224" y="341" width="313" height="338" frameX="-41" frameY="0" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0020" x="1224" y="341" width="313" height="338" frameX="-41" frameY="0" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0021" x="1537" y="341" width="312" height="338" frameX="-42" frameY="0" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0022" x="1537" y="341" width="312" height="338" frameX="-42" frameY="0" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0023" x="0" y="701" width="310" height="337" frameX="-43" frameY="-3" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0024" x="0" y="701" width="310" height="337" frameX="-43" frameY="-3" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0025" x="310" y="701" width="303" height="334" frameX="-47" frameY="-10" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0026" x="613" y="701" width="299" height="332" frameX="-49" frameY="-16" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0027" x="613" y="701" width="299" height="332" frameX="-49" frameY="-16" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0028" x="912" y="701" width="298" height="349" frameX="-50" frameY="-25" frameWidth="359" frameHeight="385"/>
+	<SubTexture name="Bf idle body0029" x="912" y="701" width="298" height="349" frameX="-50" frameY="-25" frameWidth="359" frameHeight="385"/>
+</TextureAtlas>

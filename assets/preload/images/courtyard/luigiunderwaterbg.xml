@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="luigiunderwaterbg.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sail0000" x="0" y="0" width="1920" height="810"/>
+	<SubTexture name="sail0001" x="0" y="0" width="1920" height="810"/>
+	<SubTexture name="sail0002" x="0" y="0" width="1920" height="810"/>
+	<SubTexture name="sail0003" x="0" y="0" width="1920" height="810"/>
+	<SubTexture name="sail0004" x="1920" y="0" width="1920" height="810"/>
+	<SubTexture name="sail0005" x="1920" y="0" width="1920" height="810"/>
+	<SubTexture name="sail0006" x="1920" y="0" width="1920" height="810"/>
+	<SubTexture name="sail0007" x="1920" y="0" width="1920" height="810"/>
+	<SubTexture name="sail0008" x="0" y="810" width="1920" height="810"/>
+	<SubTexture name="sail0009" x="0" y="810" width="1920" height="810"/>
+	<SubTexture name="sail0010" x="0" y="810" width="1920" height="810"/>
+	<SubTexture name="sail0011" x="0" y="810" width="1920" height="810"/>
+	<SubTexture name="sail0012" x="1920" y="810" width="1920" height="810"/>
+	<SubTexture name="sail0013" x="1920" y="810" width="1920" height="810"/>
+	<SubTexture name="sail0014" x="1920" y="810" width="1920" height="810"/>
+	<SubTexture name="sail0015" x="1920" y="810" width="1920" height="810"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yoshi 1`.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yoshi idle0000" x="5" y="5" width="459" height="585" frameX="0" frameY="-19" frameWidth="459" frameHeight="605"/>
+	<SubTexture name="yoshi idle0001" x="5" y="5" width="459" height="585" frameX="0" frameY="-19" frameWidth="459" frameHeight="605"/>
+	<SubTexture name="yoshi idle0002" x="466" y="5" width="457" height="589" frameX="-1" frameY="-16" frameWidth="459" frameHeight="605"/>
+	<SubTexture name="yoshi idle0003" x="466" y="5" width="457" height="589" frameX="-1" frameY="-16" frameWidth="459" frameHeight="605"/>
+	<SubTexture name="yoshi idle0004" x="925" y="5" width="453" height="600" frameX="-3" frameY="-5" frameWidth="459" frameHeight="605"/>
+	<SubTexture name="yoshi idle0005" x="925" y="5" width="453" height="600" frameX="-3" frameY="-5" frameWidth="459" frameHeight="605"/>
+	<SubTexture name="yoshi idle0006" x="1380" y="5" width="453" height="604" frameX="-3" frameY="-1" frameWidth="459" frameHeight="605"/>
+	<SubTexture name="yoshi idle0007" x="1380" y="5" width="453" height="604" frameX="-3" frameY="-1" frameWidth="459" frameHeight="605"/>
+	<SubTexture name="yoshi idle0008" x="1835" y="5" width="453" height="605" frameX="-3" frameY="0" frameWidth="459" frameHeight="605"/>
+	<SubTexture name="yoshi idle0009" x="1835" y="5" width="453" height="605" frameX="-3" frameY="0" frameWidth="459" frameHeight="605"/>
+	<SubTexture name="yoshi idle0010" x="1835" y="5" width="453" height="605" frameX="-3" frameY="0" frameWidth="459" frameHeight="605"/>
+	<SubTexture name="yoshi idle0011" x="1835" y="5" width="453" height="605" frameX="-3" frameY="0" frameWidth="459" frameHeight="605"/>
+	<SubTexture name="yoshi idle0012" x="1835" y="5" width="453" height="605" frameX="-3" frameY="0" frameWidth="459" frameHeight="605"/>
+	<SubTexture name="yoshi idle0013" x="1835" y="5" width="453" height="605" frameX="-3" frameY="0" frameWidth="459" frameHeight="605"/>
+	<SubTexture name="yoshi idle0014" x="1835" y="5" width="453" height="605" frameX="-3" frameY="0" frameWidth="459" frameHeight="605"/>
+</TextureAtlas>

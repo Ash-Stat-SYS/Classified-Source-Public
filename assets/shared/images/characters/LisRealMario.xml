@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LisReal.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="VoiceLine0002" x="0" y="4024" width="1378" height="2004" frameX="-58" frameY="-8" frameWidth="1436" frameHeight="2012"/>
+	<SubTexture name="VoiceLine0003" x="0" y="0" width="1378" height="2012" frameX="-58" frameY="0" frameWidth="1436" frameHeight="2012"/>
+	<SubTexture name="VoiceLine0004" x="0" y="2012" width="1378" height="2012" frameX="-58" frameY="0" frameWidth="1436" frameHeight="2012"/>
+	<SubTexture name="VoiceLine0005" x="0" y="6028" width="1378" height="1990" frameX="-58" frameY="-22" frameWidth="1436" frameHeight="2012"/>
+	<SubTexture name="VoiceLine0006" x="1378" y="0" width="1378" height="1990" frameX="-58" frameY="-22" frameWidth="1436" frameHeight="2012"/>
+	<SubTexture name="VoiceLine0007" x="2756" y="0" width="1378" height="1972" frameX="-58" frameY="-40" frameWidth="1436" frameHeight="2012"/>
+	<SubTexture name="VoiceLine0008" x="4134" y="0" width="1378" height="1972" frameX="-58" frameY="-40" frameWidth="1436" frameHeight="2012"/>
+	<SubTexture name="VoiceLine0009" x="5512" y="0" width="1378" height="1957" frameX="-58" frameY="-55" frameWidth="1436" frameHeight="2012"/>
+	<SubTexture name="VoiceLine0010" x="5512" y="1957" width="1378" height="1957" frameX="-58" frameY="-55" frameWidth="1436" frameHeight="2012"/>
+	<SubTexture name="VoiceLine0018" x="2756" y="1972" width="1378" height="1951" frameX="-58" frameY="-61" frameWidth="1436" frameHeight="2012"/>
+	<SubTexture name="VoiceLine0019" x="1378" y="1990" width="1378" height="1951" frameX="-58" frameY="-61" frameWidth="1436" frameHeight="2012"/>
+	<SubTexture name="VoiceLine0020" x="4134" y="1972" width="1378" height="1941" frameX="-58" frameY="-71" frameWidth="1436" frameHeight="2012"/>
+	<SubTexture name="VoiceLine0021" x="4134" y="3913" width="1378" height="1941" frameX="-58" frameY="-71" frameWidth="1436" frameHeight="2012"/>
+	<SubTexture name="VoiceLine0022" x="2756" y="3923" width="1378" height="1926" frameX="-58" frameY="-86" frameWidth="1436" frameHeight="2012"/>
+	<SubTexture name="VoiceLine0023" x="1378" y="3941" width="1378" height="1926" frameX="-58" frameY="-86" frameWidth="1436" frameHeight="2012"/>
+	<SubTexture name="VoiceLine0024" x="2756" y="5849" width="1378" height="1913" frameX="-58" frameY="-99" frameWidth="1436" frameHeight="2012"/>
+	<SubTexture name="VoiceLine0025" x="1378" y="5867" width="1378" height="1913" frameX="-58" frameY="-99" frameWidth="1436" frameHeight="2012"/>
+	<SubTexture name="VoiceLine0026" x="4134" y="5854" width="1378" height="1907" frameX="-58" frameY="-105" frameWidth="1436" frameHeight="2012"/>
+	<SubTexture name="VoiceLine0027" x="5512" y="3914" width="1378" height="1907" frameX="-58" frameY="-105" frameWidth="1436" frameHeight="2012"/>
+	<SubTexture name="VoiceLine0028" x="5512" y="5821" width="1378" height="1906" frameX="-58" frameY="-106" frameWidth="1436" frameHeight="2012"/>
+</TextureAtlas>

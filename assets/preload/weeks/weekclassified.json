@@ -1,0 +1,49 @@
+{
+	"storyName": "work in progress",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Watery Grave",
+			"luigi",
+			[
+				0,
+				160,
+				0
+			]
+		],
+		[
+			"Funhouse",
+			"wario",
+			[
+				235,
+				235,
+				0
+			]
+		],
+		[
+			"Your Copy",
+			"mario",
+			[
+				155,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "classified"
+}

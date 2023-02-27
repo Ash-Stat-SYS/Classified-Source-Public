@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "3DMario left"
+		},
+		{
+			"offsets": [
+				-8,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "3DMario down"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "3DMario up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "3DMario right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "3DMario Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/3DMario",
+	"position": [
+		-250,
+		-100
+	],
+	"healthicon": "mario",
+	"flip_x": false,
+	"healthbar_colors": [
+		199,
+		39,
+		0
+	],
+	"camera_position": [
+		90,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

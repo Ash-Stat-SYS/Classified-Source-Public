@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mario Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				207,
+				61
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mario Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-84
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mario Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				186,
+				396
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mario Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				75
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mario Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				15
+			],
+			"anim": "Game Over",
+			"fps": 24,
+			"name": "Mario Game Over",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Maeroe",
+	"position": [
+		-70,
+		30
+	],
+	"healthicon": "mario",
+	"flip_x": false,
+	"healthbar_colors": [
+		199,
+		39,
+		0
+	],
+	"camera_position": [
+		0,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				497
+			],
+			"anim": "KILL",
+			"fps": 24,
+			"name": "gethit instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				101,
+				497
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				63
+			],
+			"name": "gethit instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wariodieripbozo",
+	"position": [
+		170,
+		400
+	],
+	"healthicon": "warioMad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		232,
+		65
+	],
+	"camera_position": [
+		-260,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

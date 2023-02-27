@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BlueToadOld.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BlueToad_Idle instance 10000" x="0" y="0" width="321" height="278" frameX="0" frameY="-39" frameWidth="321" frameHeight="320"/>
+	<SubTexture name="BlueToad_Idle instance 10001" x="0" y="0" width="321" height="278" frameX="0" frameY="-39" frameWidth="321" frameHeight="320"/>
+	<SubTexture name="BlueToad_Idle instance 10002" x="321" y="0" width="267" height="309" frameX="-24" frameY="-10" frameWidth="321" frameHeight="320"/>
+	<SubTexture name="BlueToad_Idle instance 10003" x="321" y="0" width="267" height="309" frameX="-24" frameY="-10" frameWidth="321" frameHeight="320"/>
+	<SubTexture name="BlueToad_Idle instance 10004" x="588" y="0" width="236" height="320" frameX="-31" frameY="0" frameWidth="321" frameHeight="320"/>
+	<SubTexture name="BlueToad_Idle instance 10005" x="588" y="0" width="236" height="320" frameX="-31" frameY="0" frameWidth="321" frameHeight="320"/>
+	<SubTexture name="BlueToad_Idle instance 10006" x="824" y="0" width="226" height="320" frameX="-35" frameY="0" frameWidth="321" frameHeight="320"/>
+	<SubTexture name="BlueToad_Idle instance 10007" x="824" y="0" width="226" height="320" frameX="-35" frameY="0" frameWidth="321" frameHeight="320"/>
+	<SubTexture name="BlueToad_Idle instance 10008" x="824" y="0" width="226" height="320" frameX="-35" frameY="0" frameWidth="321" frameHeight="320"/>
+	<SubTexture name="BlueToad_Idle instance 10009" x="824" y="0" width="226" height="320" frameX="-35" frameY="0" frameWidth="321" frameHeight="320"/>
+	<SubTexture name="BlueToad_Idle instance 10010" x="824" y="0" width="226" height="320" frameX="-35" frameY="0" frameWidth="321" frameHeight="320"/>
+	<SubTexture name="BlueToad_Idle instance 10011" x="824" y="0" width="226" height="320" frameX="-35" frameY="0" frameWidth="321" frameHeight="320"/>
+	<SubTexture name="BlueToad_Idle instance 10012" x="824" y="0" width="226" height="320" frameX="-35" frameY="0" frameWidth="321" frameHeight="320"/>
+	<SubTexture name="BlueToad_Idle instance 10013" x="824" y="0" width="226" height="320" frameX="-35" frameY="0" frameWidth="321" frameHeight="320"/>
+</TextureAtlas>

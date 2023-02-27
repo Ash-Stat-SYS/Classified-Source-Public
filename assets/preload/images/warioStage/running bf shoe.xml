@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="running bf shoe.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bf idle shoe0000" x="0" y="0" width="173" height="272" frameX="-208" frameY="-22" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0001" x="0" y="0" width="173" height="272" frameX="-208" frameY="-22" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0002" x="173" y="0" width="185" height="271" frameX="-202" frameY="-2" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0003" x="173" y="0" width="185" height="271" frameX="-202" frameY="-2" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0004" x="358" y="0" width="188" height="270" frameX="-200" frameY="0" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0005" x="358" y="0" width="188" height="270" frameX="-200" frameY="0" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0006" x="358" y="0" width="188" height="270" frameX="-200" frameY="-1" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0007" x="358" y="0" width="188" height="270" frameX="-200" frameY="-1" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0008" x="358" y="0" width="188" height="270" frameX="-200" frameY="-9" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0009" x="358" y="0" width="188" height="270" frameX="-200" frameY="-9" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0010" x="358" y="0" width="188" height="270" frameX="-200" frameY="-32" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0011" x="358" y="0" width="188" height="270" frameX="-200" frameY="-50" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0012" x="358" y="0" width="188" height="270" frameX="-200" frameY="-50" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0013" x="546" y="0" width="180" height="198" frameX="-198" frameY="-125" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0014" x="546" y="0" width="180" height="198" frameX="-198" frameY="-125" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0015" x="726" y="0" width="173" height="272" frameX="0" frameY="-23" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0016" x="726" y="0" width="173" height="272" frameX="0" frameY="-23" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0017" x="0" y="272" width="174" height="272" frameX="-2" frameY="-7" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0018" x="0" y="272" width="174" height="272" frameX="-2" frameY="-7" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0019" x="174" y="272" width="174" height="271" frameX="-2" frameY="-5" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0020" x="174" y="272" width="174" height="271" frameX="-2" frameY="-5" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0021" x="348" y="272" width="174" height="272" frameX="-2" frameY="-5" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0022" x="348" y="272" width="174" height="272" frameX="-2" frameY="-5" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0023" x="522" y="272" width="172" height="272" frameX="-4" frameY="-9" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0024" x="522" y="272" width="172" height="272" frameX="-4" frameY="-9" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0025" x="694" y="272" width="173" height="273" frameX="-9" frameY="-18" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0026" x="0" y="545" width="175" height="272" frameX="-18" frameY="-37" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0027" x="0" y="545" width="175" height="272" frameX="-18" frameY="-37" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0028" x="175" y="545" width="181" height="198" frameX="-12" frameY="-111" frameWidth="388" frameHeight="323"/>
+	<SubTexture name="Bf idle shoe0029" x="175" y="545" width="181" height="198" frameX="-12" frameY="-111" frameWidth="388" frameHeight="323"/>
+</TextureAtlas>

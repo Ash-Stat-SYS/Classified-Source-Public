@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="waterwiggle.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="waterwiggle0000" x="0" y="0" width="902" height="109" frameX="-9" frameY="-2" frameWidth="911" frameHeight="123"/>
+	<SubTexture name="waterwiggle0001" x="0" y="0" width="902" height="109" frameX="-9" frameY="-2" frameWidth="911" frameHeight="123"/>
+	<SubTexture name="waterwiggle0002" x="0" y="109" width="904" height="102" frameX="-7" frameY="-7" frameWidth="911" frameHeight="123"/>
+	<SubTexture name="waterwiggle0003" x="0" y="109" width="904" height="102" frameX="-7" frameY="-7" frameWidth="911" frameHeight="123"/>
+	<SubTexture name="waterwiggle0004" x="0" y="211" width="878" height="115" frameX="-15" frameY="0" frameWidth="911" frameHeight="123"/>
+	<SubTexture name="waterwiggle0005" x="0" y="211" width="878" height="115" frameX="-15" frameY="0" frameWidth="911" frameHeight="123"/>
+	<SubTexture name="waterwiggle0006" x="0" y="326" width="902" height="118" frameX="0" frameY="0" frameWidth="911" frameHeight="123"/>
+	<SubTexture name="waterwiggle0007" x="0" y="326" width="902" height="118" frameX="0" frameY="0" frameWidth="911" frameHeight="123"/>
+	<SubTexture name="waterwiggle0008" x="0" y="444" width="880" height="121" frameX="-13" frameY="-2" frameWidth="911" frameHeight="123"/>
+	<SubTexture name="waterwiggle0009" x="0" y="444" width="880" height="121" frameX="-13" frameY="-2" frameWidth="911" frameHeight="123"/>
+	<SubTexture name="waterwiggle0010" x="0" y="565" width="890" height="123" frameX="-11" frameY="0" frameWidth="911" frameHeight="123"/>
+	<SubTexture name="waterwiggle0011" x="0" y="565" width="890" height="123" frameX="-11" frameY="0" frameWidth="911" frameHeight="123"/>
+</TextureAtlas>

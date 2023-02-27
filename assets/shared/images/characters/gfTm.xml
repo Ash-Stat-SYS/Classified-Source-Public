@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfTm.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf idle0000" x="0" y="0" width="413" height="464" frameX="-8" frameY="-1" frameWidth="421" frameHeight="474"/>
+	<SubTexture name="gf idle0001" x="0" y="0" width="413" height="464" frameX="-8" frameY="-1" frameWidth="421" frameHeight="474"/>
+	<SubTexture name="gf idle0002" x="413" y="0" width="410" height="460" frameX="-4" frameY="-10" frameWidth="421" frameHeight="474"/>
+	<SubTexture name="gf idle0003" x="413" y="0" width="410" height="460" frameX="-4" frameY="-10" frameWidth="421" frameHeight="474"/>
+	<SubTexture name="gf idle0004" x="823" y="0" width="407" height="461" frameX="-1" frameY="-11" frameWidth="421" frameHeight="474"/>
+	<SubTexture name="gf idle0005" x="823" y="0" width="407" height="461" frameX="-1" frameY="-11" frameWidth="421" frameHeight="474"/>
+	<SubTexture name="gf idle0006" x="1230" y="0" width="404" height="460" frameX="-1" frameY="-9" frameWidth="421" frameHeight="474"/>
+	<SubTexture name="gf idle0007" x="1230" y="0" width="404" height="460" frameX="-1" frameY="-9" frameWidth="421" frameHeight="474"/>
+	<SubTexture name="gf idle0008" x="1634" y="0" width="401" height="460" frameX="0" frameY="-14" frameWidth="421" frameHeight="474"/>
+	<SubTexture name="gf idle0009" x="0" y="464" width="402" height="461" frameX="-3" frameY="-7" frameWidth="421" frameHeight="474"/>
+	<SubTexture name="gf idle0010" x="0" y="464" width="402" height="461" frameX="-3" frameY="-7" frameWidth="421" frameHeight="474"/>
+	<SubTexture name="gf idle0011" x="402" y="464" width="410" height="465" frameX="-7" frameY="0" frameWidth="421" frameHeight="474"/>
+	<SubTexture name="gf idle0012" x="402" y="464" width="410" height="465" frameX="-7" frameY="0" frameWidth="421" frameHeight="474"/>
+	<SubTexture name="gf idle0013" x="812" y="464" width="413" height="464" frameX="-8" frameY="-1" frameWidth="421" frameHeight="474"/>
+	<SubTexture name="gf idle0014" x="812" y="464" width="413" height="464" frameX="-8" frameY="-1" frameWidth="421" frameHeight="474"/>
+	<SubTexture name="gf idle0015" x="812" y="464" width="413" height="464" frameX="-8" frameY="-1" frameWidth="421" frameHeight="474"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				373,
+				119
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left_pose"
+		},
+		{
+			"offsets": [
+				285,
+				166
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down_pose"
+		},
+		{
+			"offsets": [
+				370,
+				518
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up_pose"
+		},
+		{
+			"offsets": [
+				86,
+				66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right_pose"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "M idol"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/M_spritez_backup",
+	"position": [
+		-70,
+		30
+	],
+	"healthicon": "M",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-80,
+		90
+	],
+	"sing_duration": 6.6,
+	"scale": 1
+}

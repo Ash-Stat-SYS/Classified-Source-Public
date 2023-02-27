@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-138
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "GF Idle Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-138
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"name": "GF Idle Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-137
+			],
+			"fps": 24,
+			"anim": "leftTurn",
+			"indices": [],
+			"name": "GF Turn Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				-139
+			],
+			"fps": 24,
+			"anim": "rightTurn",
+			"indices": [],
+			"name": "GF Turn Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				-141
+			],
+			"anim": "danceRight-alt",
+			"fps": 24,
+			"name": "GF Idle Right",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-141
+			],
+			"anim": "danceLeft-alt",
+			"fps": 24,
+			"name": "GF Idle Right",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF_Personalized",
+	"position": [
+		-230,
+		-300
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		100,
+		540
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speedrunnerMario.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="speedrunner down0000" x="5" y="5" width="848" height="555" frameX="-17" frameY="0" frameWidth="890" frameHeight="557"/>
+	<SubTexture name="speedrunner down0001" x="5" y="5" width="848" height="555" frameX="-17" frameY="0" frameWidth="890" frameHeight="557"/>
+	<SubTexture name="speedrunner down0002" x="855" y="5" width="890" height="557"/>
+	<SubTexture name="speedrunner down0003" x="855" y="5" width="890" height="557"/>
+	<SubTexture name="speedrunner down0004" x="855" y="5" width="890" height="557"/>
+	<SubTexture name="speedrunner down0005" x="855" y="5" width="890" height="557"/>
+	<SubTexture name="speedrunner down0006" x="855" y="5" width="890" height="557"/>
+	<SubTexture name="speedrunner down0007" x="855" y="5" width="890" height="557"/>
+	<SubTexture name="speedrunner down0008" x="855" y="5" width="890" height="557"/>
+	<SubTexture name="speedrunner down0009" x="855" y="5" width="890" height="557"/>
+	<SubTexture name="speedrunner down0010" x="855" y="5" width="890" height="557"/>
+	<SubTexture name="speedrunner down0011" x="855" y="5" width="890" height="557"/>
+	<SubTexture name="speedrunner down0012" x="855" y="5" width="890" height="557"/>
+	<SubTexture name="speedrunner down0013" x="855" y="5" width="890" height="557"/>
+	<SubTexture name="speedrunner down0014" x="855" y="5" width="890" height="557"/>
+	<SubTexture name="speedrunner idle0000" x="1747" y="5" width="635" height="480" frameX="0" frameY="-71" frameWidth="635" frameHeight="552"/>
+	<SubTexture name="speedrunner idle0001" x="1747" y="5" width="635" height="480" frameX="0" frameY="-71" frameWidth="635" frameHeight="552"/>
+	<SubTexture name="speedrunner idle0002" x="2384" y="5" width="584" height="487" frameX="-25" frameY="-63" frameWidth="635" frameHeight="552"/>
+	<SubTexture name="speedrunner idle0003" x="2384" y="5" width="584" height="487" frameX="-25" frameY="-63" frameWidth="635" frameHeight="552"/>
+	<SubTexture name="speedrunner idle0004" x="2970" y="5" width="576" height="524" frameX="-30" frameY="-28" frameWidth="635" frameHeight="552"/>
+	<SubTexture name="speedrunner idle0005" x="2970" y="5" width="576" height="524" frameX="-30" frameY="-28" frameWidth="635" frameHeight="552"/>
+	<SubTexture name="speedrunner idle0006" x="3548" y="5" width="575" height="548" frameX="-31" frameY="-4" frameWidth="635" frameHeight="552"/>
+	<SubTexture name="speedrunner idle0007" x="3548" y="5" width="575" height="548" frameX="-31" frameY="-4" frameWidth="635" frameHeight="552"/>
+	<SubTexture name="speedrunner idle0008" x="4125" y="5" width="574" height="552" frameX="-31" frameY="0" frameWidth="635" frameHeight="552"/>
+	<SubTexture name="speedrunner idle0009" x="4125" y="5" width="574" height="552" frameX="-31" frameY="0" frameWidth="635" frameHeight="552"/>
+	<SubTexture name="speedrunner idle0010" x="4125" y="5" width="574" height="552" frameX="-31" frameY="0" frameWidth="635" frameHeight="552"/>
+	<SubTexture name="speedrunner idle0011" x="4125" y="5" width="574" height="552" frameX="-31" frameY="0" frameWidth="635" frameHeight="552"/>
+	<SubTexture name="speedrunner idle0012" x="4125" y="5" width="574" height="552" frameX="-31" frameY="0" frameWidth="635" frameHeight="552"/>
+	<SubTexture name="speedrunner idle0013" x="4125" y="5" width="574" height="552" frameX="-31" frameY="0" frameWidth="635" frameHeight="552"/>
+	<SubTexture name="speedrunner idle0014" x="4125" y="5" width="574" height="552" frameX="-31" frameY="0" frameWidth="635" frameHeight="552"/>
+	<SubTexture name="speedrunner idle0015" x="4125" y="5" width="574" height="552" frameX="-31" frameY="0" frameWidth="635" frameHeight="552"/>
+	<SubTexture name="speedrunner left0000" x="4701" y="5" width="845" height="552" frameX="0" frameY="0" frameWidth="881" frameHeight="552"/>
+	<SubTexture name="speedrunner left0001" x="4701" y="5" width="845" height="552" frameX="0" frameY="0" frameWidth="881" frameHeight="552"/>
+	<SubTexture name="speedrunner left0002" x="5548" y="5" width="570" height="552" frameX="-304" frameY="0" frameWidth="881" frameHeight="552"/>
+	<SubTexture name="speedrunner left0003" x="5548" y="5" width="570" height="552" frameX="-304" frameY="0" frameWidth="881" frameHeight="552"/>
+	<SubTexture name="speedrunner left0004" x="6120" y="5" width="569" height="552" frameX="-312" frameY="0" frameWidth="881" frameHeight="552"/>
+	<SubTexture name="speedrunner left0005" x="6120" y="5" width="569" height="552" frameX="-312" frameY="0" frameWidth="881" frameHeight="552"/>
+	<SubTexture name="speedrunner left0006" x="6691" y="5" width="569" height="552" frameX="-312" frameY="0" frameWidth="881" frameHeight="552"/>
+	<SubTexture name="speedrunner left0007" x="6691" y="5" width="569" height="552" frameX="-312" frameY="0" frameWidth="881" frameHeight="552"/>
+	<SubTexture name="speedrunner left0008" x="6691" y="5" width="569" height="552" frameX="-312" frameY="0" frameWidth="881" frameHeight="552"/>
+	<SubTexture name="speedrunner left0009" x="6691" y="5" width="569" height="552" frameX="-312" frameY="0" frameWidth="881" frameHeight="552"/>
+	<SubTexture name="speedrunner left0010" x="6691" y="5" width="569" height="552" frameX="-312" frameY="0" frameWidth="881" frameHeight="552"/>
+	<SubTexture name="speedrunner left0011" x="6691" y="5" width="569" height="552" frameX="-312" frameY="0" frameWidth="881" frameHeight="552"/>
+	<SubTexture name="speedrunner left0012" x="6691" y="5" width="569" height="552" frameX="-312" frameY="0" frameWidth="881" frameHeight="552"/>
+	<SubTexture name="speedrunner left0013" x="6691" y="5" width="569" height="552" frameX="-312" frameY="0" frameWidth="881" frameHeight="552"/>
+	<SubTexture name="speedrunner right0000" x="7262" y="5" width="720" height="638" frameX="-25" frameY="0" frameWidth="747" frameHeight="638"/>
+	<SubTexture name="speedrunner right0001" x="7262" y="5" width="720" height="638" frameX="-25" frameY="0" frameWidth="747" frameHeight="638"/>
+	<SubTexture name="speedrunner right0002" x="5" y="645" width="713" height="610" frameX="-8" frameY="-28" frameWidth="747" frameHeight="638"/>
+	<SubTexture name="speedrunner right0003" x="5" y="645" width="713" height="610" frameX="-8" frameY="-28" frameWidth="747" frameHeight="638"/>
+	<SubTexture name="speedrunner right0004" x="720" y="645" width="747" height="595" frameX="0" frameY="-43" frameWidth="747" frameHeight="638"/>
+	<SubTexture name="speedrunner right0005" x="720" y="645" width="747" height="595" frameX="0" frameY="-43" frameWidth="747" frameHeight="638"/>
+	<SubTexture name="speedrunner right0006" x="1469" y="645" width="741" height="601" frameX="0" frameY="-37" frameWidth="747" frameHeight="638"/>
+	<SubTexture name="speedrunner right0007" x="1469" y="645" width="741" height="601" frameX="0" frameY="-37" frameWidth="747" frameHeight="638"/>
+	<SubTexture name="speedrunner right0008" x="1469" y="645" width="741" height="601" frameX="0" frameY="-37" frameWidth="747" frameHeight="638"/>
+	<SubTexture name="speedrunner right0009" x="1469" y="645" width="741" height="601" frameX="0" frameY="-37" frameWidth="747" frameHeight="638"/>
+	<SubTexture name="speedrunner right0010" x="1469" y="645" width="741" height="601" frameX="0" frameY="-37" frameWidth="747" frameHeight="638"/>
+	<SubTexture name="speedrunner right0011" x="1469" y="645" width="741" height="601" frameX="0" frameY="-37" frameWidth="747" frameHeight="638"/>
+	<SubTexture name="speedrunner right0012" x="1469" y="645" width="741" height="601" frameX="0" frameY="-37" frameWidth="747" frameHeight="638"/>
+	<SubTexture name="speedrunner right0013" x="1469" y="645" width="741" height="601" frameX="0" frameY="-37" frameWidth="747" frameHeight="638"/>
+	<SubTexture name="speedrunner spazz0000" x="2212" y="645" width="574" height="552" frameX="-1171" frameY="-465" frameWidth="2743" frameHeight="1148"/>
+	<SubTexture name="speedrunner spazz0001" x="2788" y="645" width="741" height="579" frameX="-1250" frameY="-437" frameWidth="2743" frameHeight="1148"/>
+	<SubTexture name="speedrunner spazz0002" x="3531" y="645" width="695" height="689" frameX="-1195" frameY="-361" frameWidth="2743" frameHeight="1148"/>
+	<SubTexture name="speedrunner spazz0003" x="4228" y="645" width="1321" height="552" frameX="-1182" frameY="-465" frameWidth="2743" frameHeight="1148"/>
+	<SubTexture name="speedrunner spazz0004" x="5551" y="645" width="960" height="552" frameX="-1245" frameY="-465" frameWidth="2743" frameHeight="1148"/>
+	<SubTexture name="speedrunner spazz0005" x="5" y="1336" width="1702" height="669" frameX="0" frameY="-406" frameWidth="2743" frameHeight="1148"/>
+	<SubTexture name="speedrunner spazz0006" x="1709" y="1336" width="896" height="956" frameX="-886" frameY="-192" frameWidth="2743" frameHeight="1148"/>
+	<SubTexture name="speedrunner spazz0007" x="2607" y="1336" width="1523" height="957" frameX="-1220" frameY="-74" frameWidth="2743" frameHeight="1148"/>
+	<SubTexture name="speedrunner spazz0008" x="4132" y="1336" width="405" height="1017" frameX="-1254" frameY="0" frameWidth="2743" frameHeight="1148"/>
+	<SubTexture name="speedrunner spazz0009" x="4539" y="1336" width="1002" height="416" frameX="-939" frameY="-597" frameWidth="2743" frameHeight="1148"/>
+	<SubTexture name="speedrunner spazz0010" x="5543" y="1336" width="676" height="686" frameX="-1120" frameY="-398" frameWidth="2743" frameHeight="1148"/>
+	<SubTexture name="speedrunner spazz0011" x="6221" y="1336" width="1189" height="618" frameX="-534" frameY="-388" frameWidth="2743" frameHeight="1148"/>
+	<SubTexture name="speedrunner spazz0012" x="7412" y="1336" width="90" height="552" frameX="-1413" frameY="-465" frameWidth="2743" frameHeight="1148"/>
+	<SubTexture name="speedrunner spazz0013" x="5" y="2355" width="906" height="552" frameX="-960" frameY="-465" frameWidth="2743" frameHeight="1148"/>
+	<SubTexture name="speedrunner spazz0014" x="2212" y="645" width="574" height="552" frameX="-1171" frameY="-465" frameWidth="2743" frameHeight="1148"/>
+	<SubTexture name="speedrunner up0000" x="913" y="2355" width="685" height="731" frameX="-33" frameY="0" frameWidth="742" frameHeight="856"/>
+	<SubTexture name="speedrunner up0001" x="913" y="2355" width="685" height="731" frameX="-33" frameY="0" frameWidth="742" frameHeight="856"/>
+	<SubTexture name="speedrunner up0002" x="1600" y="2355" width="692" height="660" frameX="-25" frameY="-182" frameWidth="742" frameHeight="856"/>
+	<SubTexture name="speedrunner up0003" x="2294" y="2355" width="742" height="628" frameX="0" frameY="-228" frameWidth="742" frameHeight="856"/>
+	<SubTexture name="speedrunner up0004" x="2294" y="2355" width="742" height="628" frameX="0" frameY="-228" frameWidth="742" frameHeight="856"/>
+	<SubTexture name="speedrunner up0005" x="2294" y="2355" width="742" height="628" frameX="0" frameY="-228" frameWidth="742" frameHeight="856"/>
+	<SubTexture name="speedrunner up0006" x="2294" y="2355" width="742" height="628" frameX="0" frameY="-228" frameWidth="742" frameHeight="856"/>
+	<SubTexture name="speedrunner up0007" x="2294" y="2355" width="742" height="628" frameX="0" frameY="-228" frameWidth="742" frameHeight="856"/>
+	<SubTexture name="speedrunner up0008" x="2294" y="2355" width="742" height="628" frameX="0" frameY="-228" frameWidth="742" frameHeight="856"/>
+	<SubTexture name="speedrunner up0009" x="2294" y="2355" width="742" height="628" frameX="0" frameY="-228" frameWidth="742" frameHeight="856"/>
+	<SubTexture name="speedrunner up0010" x="2294" y="2355" width="742" height="628" frameX="0" frameY="-228" frameWidth="742" frameHeight="856"/>
+	<SubTexture name="speedrunner up0011" x="2294" y="2355" width="742" height="628" frameX="0" frameY="-228" frameWidth="742" frameHeight="856"/>
+	<SubTexture name="speedrunner up0012" x="2294" y="2355" width="742" height="628" frameX="0" frameY="-228" frameWidth="742" frameHeight="856"/>
+	<SubTexture name="speedrunner up0013" x="2294" y="2355" width="742" height="628" frameX="0" frameY="-228" frameWidth="742" frameHeight="856"/>
+</TextureAtlas>

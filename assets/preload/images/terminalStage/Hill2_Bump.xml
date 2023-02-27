@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hill2_Bump.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="2 Hills_Idle instance 10000" x="0" y="0" width="688" height="1103" frameX="0" frameY="-17" frameWidth="688" frameHeight="1121"/>
+	<SubTexture name="2 Hills_Idle instance 10001" x="0" y="0" width="688" height="1103" frameX="0" frameY="-17" frameWidth="688" frameHeight="1121"/>
+	<SubTexture name="2 Hills_Idle instance 10002" x="688" y="0" width="658" height="1114" frameX="-15" frameY="-6" frameWidth="688" frameHeight="1121"/>
+	<SubTexture name="2 Hills_Idle instance 10003" x="688" y="0" width="658" height="1114" frameX="-15" frameY="-6" frameWidth="688" frameHeight="1121"/>
+	<SubTexture name="2 Hills_Idle instance 10004" x="1346" y="0" width="644" height="1121" frameX="-22" frameY="0" frameWidth="688" frameHeight="1121"/>
+	<SubTexture name="2 Hills_Idle instance 10005" x="1346" y="0" width="644" height="1121" frameX="-22" frameY="0" frameWidth="688" frameHeight="1121"/>
+	<SubTexture name="2 Hills_Idle instance 10006" x="1346" y="0" width="644" height="1121" frameX="-22" frameY="0" frameWidth="688" frameHeight="1121"/>
+	<SubTexture name="2 Hills_Idle instance 10007" x="1346" y="0" width="644" height="1121" frameX="-22" frameY="0" frameWidth="688" frameHeight="1121"/>
+	<SubTexture name="2 Hills_Idle instance 10008" x="1346" y="0" width="644" height="1121" frameX="-22" frameY="0" frameWidth="688" frameHeight="1121"/>
+	<SubTexture name="2 Hills_Idle instance 10009" x="1346" y="0" width="644" height="1121" frameX="-22" frameY="0" frameWidth="688" frameHeight="1121"/>
+	<SubTexture name="2 Hills_Idle instance 10010" x="1346" y="0" width="644" height="1121" frameX="-22" frameY="0" frameWidth="688" frameHeight="1121"/>
+	<SubTexture name="2 Hills_Idle instance 10011" x="1346" y="0" width="644" height="1121" frameX="-22" frameY="0" frameWidth="688" frameHeight="1121"/>
+	<SubTexture name="2 Hills_Idle instance 10012" x="1346" y="0" width="644" height="1121" frameX="-22" frameY="0" frameWidth="688" frameHeight="1121"/>
+	<SubTexture name="2 Hills_Idle instance 10013" x="1346" y="0" width="644" height="1121" frameX="-22" frameY="0" frameWidth="688" frameHeight="1121"/>
+</TextureAtlas>

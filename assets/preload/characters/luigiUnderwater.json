@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-55,
+				86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "luigeidle"
+		},
+		{
+			"offsets": [
+				-40,
+				106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownLuige"
+		},
+		{
+			"offsets": [
+				14,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LeftLuige"
+		},
+		{
+			"offsets": [
+				-24,
+				351
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UpLuige"
+		},
+		{
+			"offsets": [
+				-132,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RightLuige"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SadWeegus",
+	"position": [
+		-20,
+		250
+	],
+	"healthicon": "luigi",
+	"flip_x": false,
+	"healthbar_colors": [
+		41,
+		182,
+		121
+	],
+	"camera_position": [
+		-140,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
